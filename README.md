@@ -1,4 +1,4 @@
-###GENERATORS:
+## GENERATORS:
 * Text Content Generator - http://www.lipsum.com
 * Favicon Generator - http://tools.dynamicdrive.com/favicon		
 * Data Generator - https://mockaroo.com/						
@@ -71,3 +71,6 @@
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
 * Organized Docs for all Popular Web Technologies - https://devdocs.io
+
+
+## Was originally made by Traversy Media.  
